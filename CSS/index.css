@@ -1,0 +1,117 @@
+body{
+    background-color: #FFFFFF;
+}
+*{
+    outline: none;
+}
+
+.hder{
+position: absolute;
+width: 595px;
+height: 100px;
+left: 0px;
+top: 0px;
+}
+
+.orf{
+position: absolute;
+width: 361px;
+height: 30px;
+left: 117px;
+top: 112px;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+color: #6B6B6B;   
+}
+
+.wbck{
+position: absolute;
+width: 595px;
+height: 818px;
+left: 0px;
+top: 177px;
+background: #FFFFFF;
+box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.soro{
+position: absolute;
+width: 164px;
+height: 217px;
+left: 27px;
+top: 240px;
+}
+
+.sabonete{
+position: absolute;
+width: 165px;
+height: 217px;
+left: 215px;
+top: 240px;
+}
+
+.gillette{
+position: absolute;
+width: 164px;
+height: 217px;
+left: 404px;
+top: 240px;
+}
+
+.espuma{
+position: absolute;
+width: 164px;
+height: 217px;
+left: 27px;
+top: 477px;
+}
+
+.shampoo{
+position: absolute;
+width: 164px;
+height: 217px;
+left: 216px;
+top: 477px;
+}
+
+.pomada{
+position: absolute;
+width: 164px;
+height: 217px;
+left: 404px;
+top: 477px;
+}
+
+.red-soc{
+position: absolute;
+width: 280px;
+height: 20px;
+left: 145px;
+top: 739px;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #6B6B6B;
+}
+
+.soc-icon{
+position: absolute;
+width: 595px;
+height: 75px;
+left: 0px;
+top: 779px;    
+background: #DE9931;
+}
+
+.icones{
+position: absolute;
+width: 316px;
+height: 40px;
+left: 145px;
+top: 797px;
+}
